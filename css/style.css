@@ -266,8 +266,8 @@
 }
 @media (max-width: 320px) {
   .main_tituloUno {
-    font-size: 50px;
-    margin-top: 30px;
+    font-size: 20px;
+    margin-top: 15px;
   }
   .main_tituloDos {
     font-size: 30px;
@@ -298,21 +298,23 @@
     transition: 0.3s ease-in-out;
   }
   main .section_p {
-    margin-left: 64px;
+    margin-left: 15px;
     margin-top: 25px;
+    font-size: 12px;
+    text-align: center;
   }
 }
 @media (max-width: 320px) {
   .main_section {
     padding: 40px;
     margin-bottom: 10px;
-    font-size: 15px;
+    font-size: 11px;
   }
 }
 @media (max-width: 320px) {
   .main {
     padding: 0px;
-    font-size: 15px;
+    font-size: 11px;
   }
   .main_contacto {
     padding: 5px;
@@ -326,6 +328,7 @@
   .main_section {
     padding: 48px;
     margin-bottom: 10px;
+    font-size: 10px;
   }
 }
 @media (max-width: 320px) {
